@@ -27,7 +27,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Classroom Population Recognition\n\n\nPoster\n\n\nFeature-based Stochastic Context-free Grammar\n\n\nSlides\n\n\nCode\n\n\nFuzzy Logic\n\n\nSlides\n\n\nKDDCUP 2016\n\n\nSlides\n\n\nTopic Phrase Highlighting by Deconvnet\n\n\nSlides\n\n\nNamed Entity Recognition with Recursive Networks\n\n\nSlides 2016-10-12 (with introduction to recursive models)\n\n\nSlides 2016-11-15 (with system and significance)\n\n\nCode", 
+            "text": "Classroom Population Recognition\n\n\nPoster\n\n\nFeature-based Stochastic Context-free Grammar\n\n\nSlides\n\n\nCode\n\n\nFuzzy Logic\n\n\nSlides\n\n\nKDDCUP 2016\n\n\nSlides\n\n\nTopic Phrase Highlighting by Deconvnet\n\n\nSlides\n\n\nNamed Entity Recognition with Recursive Networks\n\n\nSlides\n\n\nCode", 
             "title": "Presentation"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "location": "/about/#named-entity-recognition-with-recursive-networks", 
-            "text": "Slides 2016-10-12 (with introduction to recursive models)  Slides 2016-11-15 (with system and significance)  Code", 
+            "text": "Slides  Code", 
             "title": "Named Entity Recognition with Recursive Networks"
         }
     ]
