@@ -59,6 +59,16 @@
             "location": "/about/#named-entity-recognition-with-recursive-networks", 
             "text": "Slides  Code", 
             "title": "Named Entity Recognition with Recursive Networks"
+        }, 
+        {
+            "location": "/link/", 
+            "text": "iAgent Lab Website", 
+            "title": "External Links"
+        }, 
+        {
+            "location": "/link/#iagent-lab-website", 
+            "text": "", 
+            "title": "iAgent Lab Website"
         }
     ]
 }
