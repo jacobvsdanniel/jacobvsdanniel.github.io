@@ -1,0 +1,64 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "\u674e\u670b\u8ed2 (Peng-Hsuan Li)\n\n\nBio\n\n\nPeng-Hsuan \u201cDanniel\u201d Li has been involved in human activity recognition group of iAgent since he\u2019s an NTU undergraduate. He and Yao-Hua Yang attended undergraduate project contest together with their analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building. Danniel graduated from CSIE, NTU in 2015 and still focused on activity recognition by unobtrusive sensors as of 2016.\n\n\nIn addition, Danniel also had several years of working experience in local system security and internet security.\n\n\nExperience\n\n\n\n\nInfoKeyVault Technology (2013)\n\nIntern Engineer.\n\nPorting a security Windows file system to Linux virtual file system.\n\n\n\n\nTrend Micro (2014~2016)\n\nContract Engineer.\n\nQA of an application traffic scan engine.\n\nQA of a user-awareness module of an intrusion prevention system.\n\nQA of a TLS man-in-the-middle module of an intrusion prevention system.\n\n\n\n\nAcademia Sinica (2016)\n\nStudent Intern.\n\nResearch and develop a recursive system for named entity recognition.\n\n\n\n\nEducation\n\n\n\n\nB.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2015\n\n\n\n\nM.S. Department of Computer Science and Information Engineering, National Taiwan University\n\nPursuing\n\n\n\n\nAwards\n\n\n\n\nThe Presidential Award (Spring 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2013)\n\nNational Taiwan University", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#bio", 
+            "text": "Peng-Hsuan \u201cDanniel\u201d Li has been involved in human activity recognition group of iAgent since he\u2019s an NTU undergraduate. He and Yao-Hua Yang attended undergraduate project contest together with their analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building. Danniel graduated from CSIE, NTU in 2015 and still focused on activity recognition by unobtrusive sensors as of 2016.  In addition, Danniel also had several years of working experience in local system security and internet security.", 
+            "title": "Bio"
+        }, 
+        {
+            "location": "/#experience", 
+            "text": "InfoKeyVault Technology (2013) \nIntern Engineer. \nPorting a security Windows file system to Linux virtual file system.   Trend Micro (2014~2016) \nContract Engineer. \nQA of an application traffic scan engine. \nQA of a user-awareness module of an intrusion prevention system. \nQA of a TLS man-in-the-middle module of an intrusion prevention system.   Academia Sinica (2016) \nStudent Intern. \nResearch and develop a recursive system for named entity recognition.", 
+            "title": "Experience"
+        }, 
+        {
+            "location": "/#education", 
+            "text": "B.S. Department of Computer Science and Information Engineering, National Taiwan University \n2015   M.S. Department of Computer Science and Information Engineering, National Taiwan University \nPursuing", 
+            "title": "Education"
+        }, 
+        {
+            "location": "/#awards", 
+            "text": "The Presidential Award (Spring 2012) \nNational Taiwan University   The Presidential Award (Fall 2012) \nNational Taiwan University   The Presidential Award (Fall 2013) \nNational Taiwan University", 
+            "title": "Awards"
+        }, 
+        {
+            "location": "/about/", 
+            "text": "Classroom Population Recognition\n\n\nPoster\n\n\nFeature-based Stochastic Context-free Grammar\n\n\nSlides\n\n\nCode\n\n\nFuzzy Logic\n\n\nSlides\n\n\nKDDCUP 2016\n\n\nSlides\n\n\nTopic Phrase Highlighting by Deconvnet\n\n\nSlides\n\n\nNamed Entity Recognition with Recursive Networks\n\n\nSlides 2016-10-12 (with introduction to recursive models)\n\n\nSlides 2016-11-15 (with system and significance)\n\n\nCode", 
+            "title": "Presentation"
+        }, 
+        {
+            "location": "/about/#classroom-population-recognition", 
+            "text": "Poster", 
+            "title": "Classroom Population Recognition"
+        }, 
+        {
+            "location": "/about/#feature-based-stochastic-context-free-grammar", 
+            "text": "Slides  Code", 
+            "title": "Feature-based Stochastic Context-free Grammar"
+        }, 
+        {
+            "location": "/about/#fuzzy-logic", 
+            "text": "Slides", 
+            "title": "Fuzzy Logic"
+        }, 
+        {
+            "location": "/about/#kddcup-2016", 
+            "text": "Slides", 
+            "title": "KDDCUP 2016"
+        }, 
+        {
+            "location": "/about/#topic-phrase-highlighting-by-deconvnet", 
+            "text": "Slides", 
+            "title": "Topic Phrase Highlighting by Deconvnet"
+        }, 
+        {
+            "location": "/about/#named-entity-recognition-with-recursive-networks", 
+            "text": "Slides 2016-10-12 (with introduction to recursive models)  Slides 2016-11-15 (with system and significance)  Code", 
+            "title": "Named Entity Recognition with Recursive Networks"
+        }
+    ]
+}
