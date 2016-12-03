@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u674e\u670b\u8ed2 (Peng-Hsuan Li)\n\n\nBio\n\n\nPeng-Hsuan \u201cDanniel\u201d Li has been involved in human activity recognition group of iAgent since he\u2019s an NTU undergraduate. He and Yao-Hua Yang attended undergraduate project contest together with their analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building. Danniel graduated from CSIE, NTU in 2015 and still focused on activity recognition by unobtrusive sensors as of 2016.\n\n\nIn addition, Danniel also had several years of working experience in local system security and internet security.\n\n\nExperience\n\n\n\n\nInfoKeyVault Technology (2013)\n\nIntern Engineer.\n\nPorting a security Windows file system to Linux virtual file system.\n\n\n\n\nTrend Micro (2014~2016)\n\nContract Engineer.\n\nQA of an application traffic scan engine.\n\nQA of a user-awareness module of an intrusion prevention system.\n\nQA of a TLS man-in-the-middle module of an intrusion prevention system.\n\n\n\n\nAcademia Sinica (2016)\n\nStudent Intern.\n\nResearch and develop a recursive system for named entity recognition.\n\n\n\n\nEducation\n\n\n\n\nB.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2015\n\n\n\n\nM.S. Department of Computer Science and Information Engineering, National Taiwan University\n\nPursuing\n\n\n\n\nAwards\n\n\n\n\nThe Presidential Award (Spring 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2013)\n\nNational Taiwan University", 
+            "text": "\u674e\u670b\u8ed2 (Peng-Hsuan Li)\n\n\nBio\n\n\nPeng-Hsuan \u201cDanniel\u201d Li has been involved in human activity recognition group of iAgent since he\u2019s an NTU undergraduate. He and Yao-Hua Yang attended undergraduate project contest together with their analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building. Danniel graduated from CSIE, NTU in 2015 and still focused on activity recognition by unobtrusive sensors as of 2016.\n\n\nIn addition, Danniel also had several years of working experience in local system security and internet security.\n\n\nExperience\n\n\n\n\nInfoKeyVault Technology (2013)\n\nIntern Engineer.\n\nPorting a security Windows file system to Linux virtual file system.\n\n\n\n\nTrend Micro (2014~2016)\n\nContract Engineer.\n\nQA of an application traffic scan engine.\n\nQA of a user-awareness module of an intrusion prevention system.\n\nQA of a TLS man-in-the-middle module of an intrusion prevention system.\n\n\n\n\nAcademia Sinica (2016)\n\nStudent Intern.\n\nResearch and develop a recursive system for named entity recognition.\n\n\n\n\nEducation\n\n\n\n\nB.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2015\n\n\n\n\nM.S. Department of Computer Science and Information Engineering, National Taiwan University\n\nPursuing\n\n\n\n\nAwards\n\n\n\n\nThe Presidential Award (Spring 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2013)\n\nNational Taiwan University\n\n\n\n\nContact\n\n\nEmail: \nrecaptcha\n\nLab address: Rm. 336, CSIE Building, No.1, Sec. 4, Roosevelt Rd., Taipei City 106, Taiwan", 
             "title": "Home"
         }, 
         {
@@ -24,6 +24,11 @@
             "location": "/#awards", 
             "text": "The Presidential Award (Spring 2012) \nNational Taiwan University   The Presidential Award (Fall 2012) \nNational Taiwan University   The Presidential Award (Fall 2013) \nNational Taiwan University", 
             "title": "Awards"
+        }, 
+        {
+            "location": "/#contact", 
+            "text": "Email:  recaptcha \nLab address: Rm. 336, CSIE Building, No.1, Sec. 4, Roosevelt Rd., Taipei City 106, Taiwan", 
+            "title": "Contact"
         }, 
         {
             "location": "/about/", 
@@ -62,13 +67,18 @@
         }, 
         {
             "location": "/link/", 
-            "text": "iAgent Lab Website", 
-            "title": "External Links"
+            "text": "GitHub\n\n\njacobvsdanniel\n\n\nLab\n\n\niAgent", 
+            "title": "Resources"
         }, 
         {
-            "location": "/link/#iagent-lab-website", 
-            "text": "", 
-            "title": "iAgent Lab Website"
+            "location": "/link/#github", 
+            "text": "jacobvsdanniel", 
+            "title": "GitHub"
+        }, 
+        {
+            "location": "/link/#lab", 
+            "text": "iAgent", 
+            "title": "Lab"
         }
     ]
 }
