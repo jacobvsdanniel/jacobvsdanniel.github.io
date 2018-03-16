@@ -2,32 +2,32 @@
     "docs": [
         {
             "location": "/", 
-            "text": "\u674e\u670b\u8ed2 (Peng-Hsuan Li)\n\n\nBio\n\n\nPeng-Hsuan Li is a graduate student in the Department of Computer Science and Information Engineering, National Taiwan University as of 2017. His current research interests in computational linguistics includes named entity recognition and sentiment analysis.\n\n\nFrom 2015 to 2016, Peng-Hsuan did research in human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building.\n\n\nFrom 2013 to 2016, Peng-Hsuan had several years of industrial working experience in local system security and internet security.\n\n\nExperience\n\n\n\n\nAcademia Sinica (2016)\n\nStudent Intern.\n\nResearch and develop a recursive system for named entity recognition.\n\n\n\n\nTrend Micro (2014~2016)\n\nContract Engineer.\n\nQA of an application traffic scan engine.\n\nQA of a user-awareness module of an intrusion prevention system.\n\nQA of a TLS man-in-the-middle module of an intrusion prevention system.\n\n\n\n\nInfoKeyVault Technology (2013)\n\nIntern Engineer.\n\nPorting a security Windows file system to Linux virtual file system.\n\n\n\n\nEducation\n\n\n\n\nM.S. Department of Computer Science and Information Engineering, National Taiwan University\n\nPursuing\n\n\n\n\nB.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2015\n\n\n\n\nAwards\n\n\n\n\nThe Presidential Award (Fall 2013)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Spring 2012)\n\nNational Taiwan University\n\n\n\n\nContact\n\n\nEmail: \nrecaptcha\n\nLab address: Rm. 336, CSIE Building, No.1, Sec. 4, Roosevelt Rd., Taipei City 106, Taiwan", 
+            "text": "\u674e\u670b\u8ed2 (Peng-Hsuan Li)\n\n\nBio\n\n\nSince 2016, Peng-Hsuan Li has had a great insterest in computational linguistics, and has been doing research in CKIP Group, Institute of Information Science, Academia Sinica. His projects include Named Entity Recognition (NER) and sentiment analysis.\n\n\nFrom 2011 to 2017, Peng-Hsuan studied at the Department of Computer Science and Information Engineering, National Taiwan University. He did research on human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building.\n\n\nFrom 2013 to 2016, Peng-Hsuan had several years of industrial experiences in both local system securities and internet securities.\n\n\nExperience\n\n\n\n\nAcademia Sinica (2016~)\n\nResearch Asistent.\n\nResearch and develop a deep recursive neural network system for both English and Chinese NER.\n\nResearch and Develop a neural model for Chinese phrase sentiment analysis.\n\n\n\n\nTrend Micro (2014~2016)\n\nContract Engineer.\n\nQA of an application traffic scan engine.\n\nQA of a user-awareness module of an intrusion prevention system.\n\nQA of a TLS man-in-the-middle module of an intrusion prevention system.\n\n\n\n\nInfoKeyVault Technology (2013)\n\nIntern Engineer.\n\nPorting a security Windows file system to Linux virtual file system.\n\n\n\n\nEducation\n\n\n\n\nM.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2017\n\n\n\n\nB.S. Department of Computer Science and Information Engineering, National Taiwan University\n\n2015\n\n\n\n\nAwards\n\n\n\n\nTop 1 Arousal, Top 3 Valence Arousal Combined, Out of 13 Teams\n\nThe DSAP Shared Task, IJCNLP 2017.\n\n\n\n\nThe Presidential Award (Fall 2013)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Fall 2012)\n\nNational Taiwan University\n\n\n\n\nThe Presidential Award (Spring 2012)\n\nNational Taiwan University\n\n\n\n\nContact\n\n\nEmail: \nrecaptcha\n\nLab address: Rm. 501, Institute of Information Science, Academia Sinica, No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City 115, Taiwan", 
             "title": "Home"
         }, 
         {
             "location": "/#bio", 
-            "text": "Peng-Hsuan Li is a graduate student in the Department of Computer Science and Information Engineering, National Taiwan University as of 2017. His current research interests in computational linguistics includes named entity recognition and sentiment analysis.  From 2015 to 2016, Peng-Hsuan did research in human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building.  From 2013 to 2016, Peng-Hsuan had several years of industrial working experience in local system security and internet security.", 
+            "text": "Since 2016, Peng-Hsuan Li has had a great insterest in computational linguistics, and has been doing research in CKIP Group, Institute of Information Science, Academia Sinica. His projects include Named Entity Recognition (NER) and sentiment analysis.  From 2011 to 2017, Peng-Hsuan studied at the Department of Computer Science and Information Engineering, National Taiwan University. He did research on human activity recognition under the supervision of prof. Hsu, Jane Yung-Jen. He and Yao-Hua Yang had a project on the analysis of the data set of two month camera and various sensor recordings of a seminar room in their department building.  From 2013 to 2016, Peng-Hsuan had several years of industrial experiences in both local system securities and internet securities.", 
             "title": "Bio"
         }, 
         {
             "location": "/#experience", 
-            "text": "Academia Sinica (2016) \nStudent Intern. \nResearch and develop a recursive system for named entity recognition.   Trend Micro (2014~2016) \nContract Engineer. \nQA of an application traffic scan engine. \nQA of a user-awareness module of an intrusion prevention system. \nQA of a TLS man-in-the-middle module of an intrusion prevention system.   InfoKeyVault Technology (2013) \nIntern Engineer. \nPorting a security Windows file system to Linux virtual file system.", 
+            "text": "Academia Sinica (2016~) \nResearch Asistent. \nResearch and develop a deep recursive neural network system for both English and Chinese NER. \nResearch and Develop a neural model for Chinese phrase sentiment analysis.   Trend Micro (2014~2016) \nContract Engineer. \nQA of an application traffic scan engine. \nQA of a user-awareness module of an intrusion prevention system. \nQA of a TLS man-in-the-middle module of an intrusion prevention system.   InfoKeyVault Technology (2013) \nIntern Engineer. \nPorting a security Windows file system to Linux virtual file system.", 
             "title": "Experience"
         }, 
         {
             "location": "/#education", 
-            "text": "M.S. Department of Computer Science and Information Engineering, National Taiwan University \nPursuing   B.S. Department of Computer Science and Information Engineering, National Taiwan University \n2015", 
+            "text": "M.S. Department of Computer Science and Information Engineering, National Taiwan University \n2017   B.S. Department of Computer Science and Information Engineering, National Taiwan University \n2015", 
             "title": "Education"
         }, 
         {
             "location": "/#awards", 
-            "text": "The Presidential Award (Fall 2013) \nNational Taiwan University   The Presidential Award (Fall 2012) \nNational Taiwan University   The Presidential Award (Spring 2012) \nNational Taiwan University", 
+            "text": "Top 1 Arousal, Top 3 Valence Arousal Combined, Out of 13 Teams \nThe DSAP Shared Task, IJCNLP 2017.   The Presidential Award (Fall 2013) \nNational Taiwan University   The Presidential Award (Fall 2012) \nNational Taiwan University   The Presidential Award (Spring 2012) \nNational Taiwan University", 
             "title": "Awards"
         }, 
         {
             "location": "/#contact", 
-            "text": "Email:  recaptcha \nLab address: Rm. 336, CSIE Building, No.1, Sec. 4, Roosevelt Rd., Taipei City 106, Taiwan", 
+            "text": "Email:  recaptcha \nLab address: Rm. 501, Institute of Information Science, Academia Sinica, No.128, Sec. 2, Academia Rd., Nangang Dist., Taipei City 115, Taiwan", 
             "title": "Contact"
         }, 
         {
@@ -42,7 +42,7 @@
         }, 
         {
             "location": "/resource/", 
-            "text": "Resource\n\n\n\nPersonal GitHub\n\n\njacobvsdanniel\n\n\nLab at CSIE, National Taiwan University\n\n\niAgent", 
+            "text": "Resource\n\n\n\nGitHub Repositories\n\n\njacobvsdanniel\n\n\nChinese NER\u3000Demo Page\n\n\nNER\n\n\nCKIP Group, IIS, Academia Sinica\n\n\nCKIP\n\n\niAgent Lab, CSIE, National Taiwan University\n\n\niAgent", 
             "title": "Resources"
         }
     ]
