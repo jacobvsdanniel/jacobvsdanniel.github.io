@@ -13,18 +13,19 @@
 
   <link rel="stylesheet" href="../css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../css/theme_extra.css" type="text/css" />
-  <link rel="stylesheet" href="../css/highlight.css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
   
   <script>
     // Current page data
     var mkdocs_page_name = "Publication";
     var mkdocs_page_input_path = "publication.md";
-    var mkdocs_page_url = "/publication/";
+    var mkdocs_page_url = null;
   </script>
   
-  <script src="../js/jquery-2.1.1.min.js"></script>
-  <script src="../js/modernizr-2.8.3.min.js"></script>
-  <script type="text/javascript" src="../js/highlight.pack.js"></script> 
+  <script src="../js/jquery-2.1.1.min.js" defer></script>
+  <script src="../js/modernizr-2.8.3.min.js" defer></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
   
 </head>
 
@@ -38,7 +39,7 @@
         <a href=".." class="icon icon-home"> Peng-Hsuan Li</a>
         <div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-    <input type="text" name="q" placeholder="Search docs" />
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
   </form>
 </div>
       </div>
@@ -105,12 +106,12 @@
                 <h1>Publication</h1>
 
 <p>Peng-Hsuan Li, Wei-Yun Ma, and Hsin-Yang Wang. 2017. <span style="color:#0000C0">CKIP at IJCNLP-2017 Task 2: Neural Valence-Arousal Prediction for Phrases.</span> In <em>Proceedings of the IJCNLP 2017, Shared Tasks</em>.<br />
-<a href="http://aclweb.org/anthology/I/I17/I17-4014.pdf">[paper]</a>
-<a href="http://aclweb.org/anthology/I/I17/I17-4014.bib">[bib]</a>
+<a href="http://aclweb.org/anthology/I17-4014">[paper]</a>
+<a href="https://aclanthology.info/papers/I17-4014/i17-4014.bib">[bib]</a>
 <a href="../CKIP_DSAP.pdf">[poster]</a></p>
 <p>Peng-Hsuan Li, Ruo-Ping Dong, Yu-Siang Wang, Ju-Chieh Chou, and Wei-Yun Ma. 2017. <span style="color:#0000C0">Leveraging Linguistic Structures for Named Entity Recognition with Bidirectional Recursive Neural Networks.</span> In <em>Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing</em>.<br />
-<a href="http://aclweb.org/anthology/D/D17/D17-1282.pdf">[paper]</a>
-<a href="http://aclweb.org/anthology/D/D17/D17-1282.bib">[bib]</a>
+<a href="http://aclweb.org/anthology/D17-1282">[paper]</a>
+<a href="https://aclanthology.info/papers/D17-1282/d17-1282.bib">[bib]</a>
 <a href="../rnn_ner_poster.pdf">[poster]</a>
 <a href="https://github.com/jacobvsdanniel/tf_rnn">[code]</a></p>
               
@@ -157,9 +158,8 @@
     </span>
 </div>
     <script>var base_url = '..';</script>
-    <script src="../js/theme.js"></script>
-      <script src="../search/require.js"></script>
-      <script src="../search/search.js"></script>
+    <script src="../js/theme.js" defer></script>
+      <script src="../search/main.js" defer></script>
 
 </body>
 </html>
